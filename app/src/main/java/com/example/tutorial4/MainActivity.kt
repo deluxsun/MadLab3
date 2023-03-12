@@ -12,6 +12,7 @@ import com.example.tutorial4.Models.FormData
 
 class MainActivity : AppCompatActivity() {
 
+
     lateinit var edtStudentId: EditText
     lateinit var spnYear: Spinner
     lateinit var spnSemester:Spinner
